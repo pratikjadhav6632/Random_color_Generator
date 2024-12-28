@@ -1,4 +1,4 @@
-# Fun Activity Project  
+# Fun Activity Project (Random Color Generator) 
 
 A simple and interactive activity created using **HTML**, **CSS**, and **JavaScript** for fun and learning purposes. This project demonstrates the use of **JavaScript Event Listeners** to make web pages more dynamic and engaging.  
 
