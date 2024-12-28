@@ -12,8 +12,5 @@ A simple and interactive activity created using **HTML**, **CSS**, and **JavaScr
 - Demonstrates the concept of event listeners in JavaScript.  
 - Lightweight and simple code, perfect for beginners to learn from.  
 
-## 🚀 How to Run the Project  
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/your-username/fun-activity-project.git  
+## 🚀 <a href="https://randomcolorgene.netlify.app/"> Check out now</a> 
 
